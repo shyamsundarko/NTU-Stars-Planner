@@ -7,7 +7,7 @@ The application allows the following:
 
 Design considerations: The "SOLID" design principles have been taken into consideration while implementing this project.
 
-**Object Oriented Programming**
+**Object Oriented Programming:**
 This is a computer programming model that organizes data as objects. It is also beneficial to collaborative development as we were working in teams.
 
 ![image](https://user-images.githubusercontent.com/79359151/109810730-dcec9c80-7c64-11eb-9801-5d6b855e357e.png)
