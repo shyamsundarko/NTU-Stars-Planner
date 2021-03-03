@@ -14,4 +14,4 @@ This is a computer programming model that organizes data as objects. It is also 
 
 
 **Visualizations:** 
-A UML class diagram and a sequence diagram have been depicted as well. This can be found in the UML folder.
+A UML class diagram and a sequence diagram have been depicted as well. This can be found in the "UML Diagrams" folder.
