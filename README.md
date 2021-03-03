@@ -13,5 +13,5 @@ This is a computer programming model that organizes data as objects. It is also 
 ![image](https://user-images.githubusercontent.com/79359151/109810730-dcec9c80-7c64-11eb-9801-5d6b855e357e.png)
 
 
-**Visualizations**
+**Visualizations:** 
 A UML class diagram and a sequence diagram have been depicted as well. This can be found in the UML folder.
